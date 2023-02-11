@@ -13,7 +13,7 @@ executing==1.1.1
 Fiona==1.8.21
 fonttools==4.37.4
 geopandas==0.11.1
-ipython==8.5.0
+ipython==8.10.0
 jedi==0.18.1
 matplotlib==3.6.1
 matplotlib-inline==0.1.6
